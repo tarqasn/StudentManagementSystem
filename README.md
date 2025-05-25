@@ -70,6 +70,24 @@ java -cp "out;lib/mysql-connector-j-9.3.0.jar" ui.ViewStudentsUI
 
 ---
 
+## Output Screenshots
+
+### 1. Student Registered Successfully
+
+After filling out the registration form and submitting, the console shows:
+
+![Student Added](screenshots/student_added.png)
+
+---
+
+### 2. View Registered Students
+
+All registered students are displayed in a table UI:
+
+![View Students](screenshots/view_students.png)
+
+---
+
 **Additional Notes:**
 
 * Make sure your database connection (username/password) is correct in your `DBConnection` class.
